@@ -1,6 +1,12 @@
 
 /* Your CSS Code here. */
-
+summary{
+	background:lightcyan;
+}
+#nav-actor{
+	background:#f26fff;
+	border: solid blue 2px ;
+}
 footer{
 	background:black;
 	color:white;
