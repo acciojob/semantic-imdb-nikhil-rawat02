@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+
+footer{
+	background:black;
+	color:white;
+	height:50px;
+	padding-top:20px;
+}
